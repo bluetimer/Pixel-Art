@@ -1,0 +1,50 @@
+/* PUT YOUR CLASS RULES HERE */
+.as{
+background-color:red;
+}
+.be{
+background-color:green;
+}
+.b3{
+background-color:black;
+}
+.b4{
+background-color:black;
+}
+.b5{
+background-color:yellow;
+}
+.b6{
+background-color:green;
+}
+.b7{
+background-color:green;
+}
+.lololol{
+background-color:purple;
+}
+.lmao{
+background-color:blue;
+}
+.k{
+background-color:pink;
+}
+/* DON'T DELETE THESE! */
+.pixels {
+    display: flex;
+    flex-wrap: wrap;
+    width: 512px;
+    border: 1px solid #dddddd;
+}
+.pixels > span {
+    box-sizing: border-box;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    border: 1px solid #dddddd;
+    font-family: monospace;
+    font-size: 8px;
+    text-align: center;
+    color: #999999;
+}
+
